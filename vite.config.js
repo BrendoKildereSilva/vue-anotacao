@@ -5,7 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/vue-anotacao/",
+  base: "/brendokilderesilva.github.io/vue-anotacao/",
   plugins: [
     vue(),
   ],
